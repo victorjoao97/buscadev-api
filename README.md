@@ -7,3 +7,5 @@
  [Frontend](https://github.com/victorjoao97/buscadev-web)
  
  [Mobile](https://github.com/victorjoao97/buscadev-app)
+
+[Deploy on Heroku](https://verificador-site-api.herokuapp.com)
